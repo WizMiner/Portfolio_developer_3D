@@ -4,6 +4,10 @@ import react from '@vitejs/plugin-react';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  server: {
+    host: '0.0.0.0', // Ensures the app is accessible externally
+    port: 3000, // You can choose any available port
+  },
   build: {
     // Explicitly define the output directory
     outDir: 'dist',
