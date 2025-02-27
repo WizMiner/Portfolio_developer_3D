@@ -4,7 +4,7 @@ This project demonstrates how to create an interactive 3D Earth model using [Rea
 
 ## Go live
 
-1. Clone the repository:
+1. copy link:
 
    ```bash
    https://minte-portfolio.onrender.com
