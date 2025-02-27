@@ -2,6 +2,13 @@
 
 This project demonstrates how to create an interactive 3D Earth model using [React Three Fiber](https://github.com/utsuboco/react-three-fiber) and [@react-three/drei](https://github.com/utsuboco/react-three-drei) in a React application. The model is rendered with WebGL, allowing users to interact with the Earth using mouse controls like rotation and zoom.
 
+## Go live
+
+1. Clone the repository:
+
+   ```bash
+   https://minte-portfolio.onrender.com
+
 ## Features
 
 - **Interactive 3D Earth Model:** View and interact with a 3D Earth model rendered using WebGL.
